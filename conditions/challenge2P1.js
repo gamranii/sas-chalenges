@@ -1,6 +1,9 @@
 let prompt = require('prompt-sync')();
 
-console.log("Menu principale");
+console.log("Menu principale");console.log("Menu principale");
+console.log("MERHBA BIKOUM ENDI");
+
+
 console.log("1 → Pizza")
 console.log("2 → Burger")
 console.log("3 → Tacos")
