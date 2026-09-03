@@ -1,6 +1,6 @@
 let prompt = require('prompt-sync')();
 
-console.log("Menu principale");console.log("Menu principale");
+console.log("Menu principale");
 console.log("MERHBA BIKOUM ENDI");
 
 
