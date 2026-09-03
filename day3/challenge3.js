@@ -1,5 +1,5 @@
 let prompt = require('prompt-sync')()
-let N = prompt(' enter un num a votr choix:')
+let N = +prompt(' enter un num a votr choix:')
 let somme = 0
 let exp=" "
 
