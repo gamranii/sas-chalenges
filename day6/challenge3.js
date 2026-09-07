@@ -13,7 +13,7 @@ let produit = {
 if (prodctUs == produit.name){
     console.log(`le produit est disponible`);
     if (quantitUs<=produit.quantity){
-        console.log(`le prix totatl est ${produit.price*quantitUs}`)
+        console.log(`le prix totatl est ${produit.price*quantitUs}DH`)
 
     }else{
         console.log(`la  dans ce produit est ${produit.quantity}`);
